@@ -1,32 +1,27 @@
 Mutwalli Alsheikh
 
-AI/ML-focused Computer Science student building practical, data-driven systems.
+AI/ML developer focused on RAG systems, generative AI, and applied machine learning.
 
-Focus
+What I Build
 
-Retrieval-Augmented Generation (RAG)
+Retrieval-augmented AI systems
 
 Generative AI applications
 
-Predictive modeling
+Predictive ML models
 
-Applied machine learning
+Selected Projects
 
-Selected Work
+Multimodal Retrieval Engine
+Semantic image search using CLIP embeddings and similarity-based retrieval.
 
-Multimodal Image Retrieval System
-Built a CLIP-based semantic search engine enabling image retrieval from text or image queries using embedding similarity.
-
-Hand Gesture Control System
-Developed a real-time gesture recognition system using MediaPipe and OpenCV to control application functions through hand tracking.
-
-Mobile Crowdsensing Research (IEEE Published)
-Led data analysis and experimental validation on large-scale sensor datasets, improving evaluation rigor and automation pipelines.
+RAG & ML Systems
+Designing data pipelines and evaluation workflows for intelligent AI applications.
 
 Tech
 
 Python · PyTorch · SQL · AWS · Git
 
-Currently
+Current Focus
 
-Building RAG-based systems and improving model performance, evaluation, and deployment.
+Scaling RAG architectures and building production-ready AI systems
