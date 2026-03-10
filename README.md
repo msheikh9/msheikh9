@@ -2,7 +2,7 @@ Mutwalli Alsheikh
 
 AI/ML developer focused on RAG systems, generative AI, and applied machine learning.
 
-What I Build
+What I Build:
 
 Retrieval-augmented AI systems
 
@@ -10,7 +10,7 @@ Generative AI applications
 
 Predictive ML models
 
-Selected Projects
+SELECTED PROJECTS:
 
 Multimodal Retrieval Engine
 Semantic image search using CLIP embeddings and similarity-based retrieval.
