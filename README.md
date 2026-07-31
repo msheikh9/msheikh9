@@ -2,7 +2,7 @@
 
 AI/ML engineer building LLM agent systems, retrieval pipelines, and evaluated ML models. CS @ United Arab Emirates University, graduating Dec 2027. Detroit, MI.
 
-**[Resume](link-if-you-host-it)** · **[LinkedIn](https://linkedin.com/in/mutwa11i)** · alsheikhmutwalli@gmail.com
+**[Resume](https://github.com/msheikh9/msheikh9/raw/main/Mutwalli_Alsheikh_Resume.pdf)** · **[LinkedIn](https://linkedin.com/in/mutwa11i)** · alsheikhmutwalli@gmail.com
 
 ## Projects
 
